@@ -252,3 +252,6 @@ Binding(ALT+SHIFT+X R,
 
 !ENTRY org.eclipse.ui.workbench.texteditor 4 0 2011-03-23 17:07:11.050
 !MESSAGE The 'org.eclipse.wst.jsdt.web.ui.internal.hyperlink.script.event.JSPJavaHyperlinkDetector' extension from plug-in 'org.eclipse.wst.jsdt.web.ui' to the 'org.eclipse.ui.workbench.texteditor.hyperlinkDetectors' extension point will be ignored because it contains invalid attributes.
+
+!ENTRY org.eclipse.osgi 2 1 2011-03-23 17:35:10.370
+!MESSAGE NLS missing message: CoverageViewColumnMissedBlocks_label in: com.mountainminds.eclemma.internal.ui.uimessages
