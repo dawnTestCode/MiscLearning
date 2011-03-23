@@ -1,0 +1,13 @@
+package collection;
+
+//Test List
+//TODO Can create new Ring
+//TODO Can add Leg to Ring
+//TODO Can retrieve total number of Nodes in Ring
+//TODO Can traverse Ring fully
+//TODO Can remove Leg (via starting and stopping Place) Ring
+
+
+public class RingCreationTest {
+
+}

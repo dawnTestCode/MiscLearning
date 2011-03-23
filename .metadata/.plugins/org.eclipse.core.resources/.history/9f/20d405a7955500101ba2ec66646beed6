@@ -1,0 +1,12 @@
+package collection;
+
+//Test List
+// Can create new Ring
+// Can add Leg to Ring
+// Can add Stop to Ring
+
+
+
+public class RingCreationTest {
+
+}
