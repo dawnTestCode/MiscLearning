@@ -1,0 +1,22 @@
+
+In this exercise, your goal is to test-drive an object model that calculates the total distance 
+(in miles) and duration (in days and hours) of a trip from a city on one coast to a city on the other, 
+traversing a specific set of cities along the way. 
+
+The catch is that you must implement a doubly-linked ring to represent the trip as Nodes, where each Node is either a Leg 
+or a Stop, and you must not use any Java (or Google or other) collections. 
+
+Some other contraints apply.
+
+This doubly-linked ring (a Trip class) must support the following API:
+
+-- addLeg(Node node);
+-- addStop(Node node);
+-- removeLeg(Place start, Place end);
+
+Further, a Leg, as a type of Node, must support this api: 
+
+-- setAverageSpeed();  
+
+
+----------------
