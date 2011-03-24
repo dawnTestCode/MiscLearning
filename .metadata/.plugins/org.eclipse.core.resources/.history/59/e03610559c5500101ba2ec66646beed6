@@ -1,0 +1,8 @@
+package collection;
+
+public class Place {
+
+	public Place(String citName) {
+	}
+
+}

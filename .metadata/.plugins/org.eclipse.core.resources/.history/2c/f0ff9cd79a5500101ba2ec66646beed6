@@ -1,0 +1,9 @@
+package collection;
+
+public class Place {
+
+	public Place(String citName) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,17 @@
+package collection;
+
+public class Ring {
+
+	public boolean isEmpty() {
+		return true;
+	}
+
+	public void addPlace(Place place) {
+		
+	}
+
+	public int numberOfPlaces() {
+		return 1;
+	}
+
+}

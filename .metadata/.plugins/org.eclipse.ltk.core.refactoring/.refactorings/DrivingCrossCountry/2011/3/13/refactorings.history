@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;collection.Ring.addPlace(...)&apos; to &apos;appendPlace&apos;&#x0A;- Original project: &apos;DrivingCrossCountry&apos;&#x0A;- Original element: &apos;collection.Ring.addPlace(...)&apos;&#x0A;- Renamed element: &apos;collection.Ring.appendPlace(...)&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;addPlace&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;collection{Ring.java[Ring~addPlace~QPlace;" name="appendPlace" references="true" stamp="1300918707490" version="1.0"/>
+</session>

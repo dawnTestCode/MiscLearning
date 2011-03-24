@@ -1,0 +1,18 @@
+package collection;
+
+public class Ring {
+	Place currentPlace;
+
+	public boolean isEmpty() {
+		return (getNumberOfPlaces() == 0);;
+	}
+
+	public void appendPlace(Place newPlace) {
+		currentPlace.add(newPlace);
+	}
+
+	public int numberOfPlaces() {
+		return getTotalNumberOfPlaces();
+	}
+
+}
